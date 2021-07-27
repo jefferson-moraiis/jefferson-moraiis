@@ -30,7 +30,7 @@ Eu sou um desenvolvedor FullStack & Javascript. No meu tempo livre me aventuro n
 <summary><strong>Minhas estatísticas do Github</strong></summary>
   <p align="center" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=jefferson-calmon&show_icons=true&line_height=35&count_private=true"/>
-    <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-calmon"/>
+    <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis"/>
   </p>
 </details>
 
