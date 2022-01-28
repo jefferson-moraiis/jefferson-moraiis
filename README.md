@@ -18,7 +18,7 @@ Today I live in São Paulo, Brazil
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
-### Linguagens e ferramentas
+### Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,13 +29,13 @@ Today I live in São Paulo, Brazil
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Você pode encontrar meu site de portfólio aqui** :heart:   
-[](ainda está em desenvolvimento)
+**You can find my portfolio website here** :heart:   
+[](in progress...)
 
 <br/>
 
 <details>
-<summary><strong>Minhas estatísticas do Github</strong></summary>
+<summary><strong>My Github stats</strong></summary>
   <p align="center" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&line_height=35&count_private=true"/>
     <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis"/>
