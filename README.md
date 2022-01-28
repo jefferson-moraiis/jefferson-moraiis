@@ -1,7 +1,15 @@
 ## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 
-Eu sou um desenvolvedor FullStack & Javascript. No meu tempo livre me aventuro no conhecer novas tecnologias.
+Hi , I'm Jefferson 
+
+Today I live in São Paulo, Brazil
+
+ I’m looking to collaborate on JavaScript projects
+
+ Ask me about front-end, back-end and mobile 
+
+ Fun fact I like to lean new things and test new techs
 
 <a href="https://www.linkedin.com/in/jefferson-orlando-oliveira-de-morais-ab763886/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/jeffersonmoraiis/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
