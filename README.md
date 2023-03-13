@@ -1,12 +1,11 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5715d3&height=120&section=header"/>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5715d3&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;+Today+I+live+in+São+Paulo,+Brazil;+I'm+a+Full+Stack+Developer;+I'm+looking+to+collaborate+on+JavaScript+projects;+Ask+me+about+front-end,back-end+and+mobile;+Fun+fact+I+like+to+lean+new+things+and+test+new+techs;+Be+Welcome!+ツ)
 
   <div align="center">
     <br>
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&theme=react-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&langs_count=8&count_private=false&layout=compact&theme=react-dark&bg_color=0d1117&hide_border=true"/>
   </div> 
     
   <br>
@@ -38,10 +37,11 @@
     <a href="https://www.linkedin.com/in/jefferson-orlando-oliveira-de-morais/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/jefferson-moraiis/jefferson-moraiis/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5715d3&height=120&section=footer"/>
-</a>
 
 ![Snake animation](https://github.com/jefferson-moraiis/jefferson-moraiis/blob/output/github-contribution-grid-snake.svg)
