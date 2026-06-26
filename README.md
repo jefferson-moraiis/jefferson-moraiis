@@ -1,6 +1,6 @@
 <a href="#">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5715d3\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Hi,+I'm+Jefferson+Morais;Full+Stack+Developer+%7C+Node.js+%7C+React+%7C+NestJS;Specialized+in+APIs,+Integrations+and+Scalable+Web+Applications;Building+solutions+with+performance,+clean+architecture+and+business+impact;Welcome+to+my+GitHub+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5715d3\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Hi,+I'm+Jefferson+Morais;Full+Stack+Developer+%7C+Backend+Specialist;Node.js+%7C+TypeScript+%7C+React+%7C+NestJS;APIs,+Integrations,+Architecture+and+Scalable+Applications;Building+software+with+performance,+quality+and+business+impact;Welcome+to+my+GitHub+ツ)
 
 </a>
 
@@ -9,48 +9,62 @@
 <h1 align="center">Jefferson Morais</h1>
 
 <h3 align="center">
-  Full Stack Developer | Node.js | TypeScript | React | NestJS
+  Full Stack Developer | Backend Specialist | Node.js | TypeScript | React | NestJS
 </h3>
+
+<p align="center">
+  I build scalable web applications, robust APIs and business-oriented digital solutions with a strong focus on architecture, performance and maintainability.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jefferson-orlando-oliveira-de-morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jefferson%20Morais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I am a Full Stack Developer focused on building complete, scalable and maintainable applications with strong attention to architecture, performance and user experience.
+I am a Full Stack Developer with strong experience in building complete applications, scalable APIs, system integrations and production-ready digital products.
 
-My main stack is based on **Node.js, TypeScript, NestJS, React, Next.js, PostgreSQL, MongoDB, Prisma, Docker and AWS**. I have experience creating REST APIs, authentication flows, dashboards, integrations, microservices-oriented solutions and production-ready applications.
+My main stack is focused on **Node.js, TypeScript, NestJS, React, Next.js, PostgreSQL, MongoDB, Prisma, Docker and AWS**.
 
-I like to work close to the business problem, transforming technical decisions into real impact: better performance, cleaner architecture, faster delivery and more reliable systems.
+I work across the full development lifecycle: understanding business requirements, designing the architecture, implementing APIs and interfaces, integrating external services, improving performance, writing maintainable code and preparing applications for deployment.
 
----
-
-## What I Do
-
-* Design and develop scalable **REST APIs**
-* Build modern front-end applications with **React, Next.js and TypeScript**
-* Structure back-end applications using **NestJS, Clean Architecture and SOLID principles**
-* Create database models, queries and integrations with **PostgreSQL, MongoDB and Prisma**
-* Implement authentication, authorization and secure user flows
-* Build dashboards, admin panels and internal tools
-* Work with Docker, CI/CD, cloud deployments and production environments
-* Improve code quality with testing, refactoring and maintainable architecture
+My focus is not only writing code, but building solutions that are reliable, scalable and aligned with business goals.
 
 ---
 
-## Core Stack
+## What I Deliver
+
+* Scalable REST APIs with clear architecture and business rules
+* Full Stack applications using React, Node.js and TypeScript
+* Back-end services with NestJS, Prisma and PostgreSQL
+* Authentication and authorization flows using JWT
+* Dashboards, admin panels and internal business tools
+* Database modeling and query optimization
+* System integrations with external APIs and services
+* Docker-ready applications and cloud deployments
+* Code refactoring focused on maintainability and performance
+* Automated tests, documentation and production-oriented structure
+
+---
+
+## Core Technologies
 
 <div align="center">
 
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="JavaScript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node.js" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NestJS" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="React" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="PostgreSQL" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Docker" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 </div>
 
@@ -58,18 +72,14 @@ I like to work close to the business problem, transforming technical decisions i
 
 ---
 
-## Technical Strengths
+## Technical Profile
 
 <div align="center">
 
 <table>
   <tr>
-    <td><strong>Role</strong></td>
-    <td>Full Stack Developer</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Back-end Architecture, API Development, Front-end Engineering, System Integrations and Scalable Applications</td>
+    <td><strong>Main Role</strong></td>
+    <td>Full Stack Developer | Backend Specialist</td>
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
@@ -77,11 +87,11 @@ I like to work close to the business problem, transforming technical decisions i
   </tr>
   <tr>
     <td><strong>Back-end</strong></td>
-    <td>Node.js, NestJS, Express</td>
+    <td>Node.js, NestJS, Express, REST APIs, JWT, Microservices</td>
   </tr>
   <tr>
     <td><strong>Front-end</strong></td>
-    <td>React, Next.js, Vite, Tailwind CSS</td>
+    <td>React, Next.js, Vite, Tailwind CSS, Component Architecture</td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
@@ -93,11 +103,15 @@ I like to work close to the business problem, transforming technical decisions i
   </tr>
   <tr>
     <td><strong>Cloud & DevOps</strong></td>
-    <td>Docker, AWS, Railway, Vercel</td>
+    <td>Docker, AWS, Railway, Vercel, CI/CD</td>
   </tr>
   <tr>
-    <td><strong>Practices</strong></td>
-    <td>SOLID, Clean Architecture, REST APIs, Testing, CI/CD</td>
+    <td><strong>Architecture</strong></td>
+    <td>Clean Architecture, SOLID, Design Patterns, Modular Systems</td>
+  </tr>
+  <tr>
+    <td><strong>Quality</strong></td>
+    <td>Testing, Refactoring, Code Review, Documentation, Maintainability</td>
   </tr>
 </table>
 
@@ -105,46 +119,105 @@ I like to work close to the business problem, transforming technical decisions i
 
 ---
 
-## GitHub Analytics
+## Engineering Focus
 
-<div align="center">
+I focus on building software with:
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"
- alt="Jefferson Morais GitHub Stats"
-/>
-
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"
- alt="Most Used Languages"
-/>
-
-</div>
-
+* Clear separation of responsibilities
+* Scalable and maintainable architecture
+* Secure authentication and authorization flows
+* Strong database modeling
+* Business-driven API design
+* Performance-oriented back-end services
+* Reusable and consistent front-end components
+* Production-ready deployment structure
+* Clean code and long-term maintainability
 
 ---
 
-## Featured Focus
+## Featured Project
 
-I am currently focused on improving and building projects around:
+### Fintech Expenses Challenge
 
-* Full Stack applications with React, Node.js and TypeScript
-* Back-end services with NestJS and PostgreSQL
-* APIs with authentication, authorization and business rules
-* Dashboard interfaces and internal business tools
-* Cloud-ready applications using Docker and modern deployment platforms
-* Automated workflows and integrations
+Full Stack financial management application built with **NestJS, React, TypeScript, PostgreSQL, Prisma and Docker**.
+
+The project includes authentication, transaction management, category control, filters, pagination, dashboard summaries and a complete full stack structure focused on maintainability and scalability.
+
+**Main features:**
+
+* User authentication with JWT
+* Protected routes and private resources
+* Transaction CRUD
+* Category CRUD
+* Filters by type, category and date
+* Pagination
+* Dashboard with income, expenses and balance summary
+* PostgreSQL database modeling with Prisma
+* API documentation
+* Unit and e2e tests
+* Docker-ready structure
+* Front-end built with React and TypeScript
+
+**Technical highlights:**
+
+* Back-end architecture with NestJS modules
+* DTO validation with class-validator
+* Prisma ORM with relational database modeling
+* User data isolation
+* REST API following business rules
+* Reusable front-end components
+* Production deployment structure
 
 ---
 
-## Connect With Me
+## Professional Strengths
+
+* Strong ownership from idea to deployment
+* Ability to understand business problems and translate them into technical solutions
+* Experience building APIs, dashboards and integrations
+* Focus on clean, scalable and maintainable code
+* Good understanding of both front-end and back-end responsibilities
+* Practical mindset for solving real-world problems
+* Continuous improvement through testing, refactoring and documentation
+
+---
+
+## Current Focus
+
+I am currently focused on:
+
+* Back-end architecture with Node.js, NestJS and TypeScript
+* Full Stack applications with React and modern front-end tools
+* API design, integrations and automation workflows
+* Cloud-ready applications using Docker and deployment platforms
+* Improving software quality through testing and clean architecture
+* Building portfolio projects with real business value
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" 
+    alt="Most Used Languages" 
+  />
+</p>
+
+---
+
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jefferson-orlando-oliveira-de-morais/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  Building software with purpose, performance and business impact.
 </p>
 
 ---
