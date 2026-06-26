@@ -112,9 +112,21 @@ I like to work close to the business problem, transforming technical decisions i
 ## GitHub Analytics
 
 <div align="center">
-  <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&theme=react-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&langs_count=8&count_private=false&layout=compact&theme=react-dark&bg_color=0d1117&hide_border=true"/>
+
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api?username=jefferson-moraiis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"
+ alt="Jefferson Morais GitHub Stats"
+/>
+
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-moraiis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"
+ alt="Most Used Languages"
+/>
+
 </div>
+
 
 ---
 
