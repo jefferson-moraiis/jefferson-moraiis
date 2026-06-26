@@ -12,10 +12,6 @@
   Full Stack Developer | Node.js | TypeScript | React | NestJS
 </h3>
 
-<p align="center">
-  I build scalable web applications, robust APIs and business-oriented digital solutions using modern JavaScript technologies.
-</p>
-
 ---
 
 ## About Me
