@@ -13,10 +13,6 @@
 </h3>
 
 <p align="center">
-  I build scalable web applications, robust APIs and business-oriented digital solutions with a strong focus on architecture, performance and maintainability.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/jefferson-orlando-oliveira-de-morais/">
     <img src="https://img.shields.io/badge/LinkedIn-Jefferson%20Morais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
