@@ -131,53 +131,6 @@ I focus on building software with:
 
 ---
 
-## Featured Project
-
-### Fintech Expenses Challenge
-
-Full Stack financial management application built with **NestJS, React, TypeScript, PostgreSQL, Prisma and Docker**.
-
-The project includes authentication, transaction management, category control, filters, pagination, dashboard summaries and a complete full stack structure focused on maintainability and scalability.
-
-**Main features:**
-
-* User authentication with JWT
-* Protected routes and private resources
-* Transaction CRUD
-* Category CRUD
-* Filters by type, category and date
-* Pagination
-* Dashboard with income, expenses and balance summary
-* PostgreSQL database modeling with Prisma
-* API documentation
-* Unit and e2e tests
-* Docker-ready structure
-* Front-end built with React and TypeScript
-
-**Technical highlights:**
-
-* Back-end architecture with NestJS modules
-* DTO validation with class-validator
-* Prisma ORM with relational database modeling
-* User data isolation
-* REST API following business rules
-* Reusable front-end components
-* Production deployment structure
-
----
-
-## Professional Strengths
-
-* Strong ownership from idea to deployment
-* Ability to understand business problems and translate them into technical solutions
-* Experience building APIs, dashboards and integrations
-* Focus on clean, scalable and maintainable code
-* Good understanding of both front-end and back-end responsibilities
-* Practical mindset for solving real-world problems
-* Continuous improvement through testing, refactoring and documentation
-
----
-
 ## Current Focus
 
 I am currently focused on:
